@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+	printf("name : prathana mistry\n");
+	printf("DoB : 31/08/2000\n");
+	printf("age : 23\n");
+	printf("address : olpad,sutar\n");
+	return 0;
+}
